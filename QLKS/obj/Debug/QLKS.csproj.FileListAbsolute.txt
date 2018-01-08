@@ -1,0 +1,17 @@
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.csprojResolveAssemblyReference.cache
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.Cache
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.DanhMucPhongForm.resources
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.GiaoDien.MainForm.resources
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.GiaoDien.LoaiPhongForm.resources
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.GiaoDien.ThuePhongForm.resources
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.GiaoDien.BaoCaoForm.resources
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.GiaoDien.HoaDonForm.resources
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.GiaoDien.TraCuuForm.resources
+D:\Project\Nhap mon cnpm\quan ly khach san\QLKS\QLKS\obj\Debug\QLKS.GiaoDien.SoLuongKhachForm.resources
